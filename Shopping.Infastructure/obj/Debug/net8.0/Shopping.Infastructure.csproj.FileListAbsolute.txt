@@ -1,0 +1,17 @@
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\bin\Debug\net8.0\Shopping.Infastructure.deps.json
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\bin\Debug\net8.0\Shopping.Infastructure.runtimeconfig.json
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\bin\Debug\net8.0\Shopping.Infastructure.dll
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\bin\Debug\net8.0\Shopping.Infastructure.pdb
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\bin\Debug\net8.0\Shopping.Domain.dll
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\bin\Debug\net8.0\Shopping.Domain.pdb
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\obj\Debug\net8.0\Shopping.Infastructure.csproj.AssemblyReference.cache
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\obj\Debug\net8.0\Shopping.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\obj\Debug\net8.0\Shopping.Infastructure.AssemblyInfoInputs.cache
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\obj\Debug\net8.0\Shopping.Infastructure.AssemblyInfo.cs
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\obj\Debug\net8.0\Shopping.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\obj\Debug\net8.0\Shopping.3271CBF8.Up2Date
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\obj\Debug\net8.0\Shopping.Infastructure.dll
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\obj\Debug\net8.0\refint\Shopping.Infastructure.dll
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\obj\Debug\net8.0\Shopping.Infastructure.pdb
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\obj\Debug\net8.0\Shopping.Infastructure.genruntimeconfig.cache
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Infastructure\obj\Debug\net8.0\ref\Shopping.Infastructure.dll

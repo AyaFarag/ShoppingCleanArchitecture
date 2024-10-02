@@ -1,0 +1,11 @@
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.deps.json
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.dll
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfo.cs
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.dll
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll

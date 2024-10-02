@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aya\\source\\repos\\ShoppingCleanArchitectureSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BD3E5-2455-4081-ABD3-2D79F175343F}|Shopping.Application\\Shopping.Application.csproj|c:\\users\\aya\\source\\repos\\shoppingcleanarchitecturesystem\\shopping.application\\behaviors\\validation\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BD3E5-2455-4081-ABD3-2D79F175343F}|Shopping.Application\\Shopping.Application.csproj|solutionrelative:shopping.application\\behaviors\\validation\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66EFDEC5-F6D6-40E8-AC5A-CE47509A7C11}|Shopping.API\\Shopping.API.csproj|c:\\users\\aya\\source\\repos\\shoppingcleanarchitecturesystem\\shopping.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66EFDEC5-F6D6-40E8-AC5A-CE47509A7C11}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1BD3E5-2455-4081-ABD3-2D79F175343F}|Shopping.Application\\Shopping.Application.csproj|c:\\users\\aya\\source\\repos\\shoppingcleanarchitecturesystem\\shopping.application\\behaviors\\validation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1BD3E5-2455-4081-ABD3-2D79F175343F}|Shopping.Application\\Shopping.Application.csproj|solutionrelative:shopping.application\\behaviors\\validation\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66EFDEC5-F6D6-40E8-AC5A-CE47509A7C11}|Shopping.API\\Shopping.API.csproj|c:\\users\\aya\\source\\repos\\shoppingcleanarchitecturesystem\\shopping.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66EFDEC5-F6D6-40E8-AC5A-CE47509A7C11}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66EFDEC5-F6D6-40E8-AC5A-CE47509A7C11}|Shopping.API\\Shopping.API.csproj|c:\\users\\aya\\source\\repos\\shoppingcleanarchitecturesystem\\shopping.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66EFDEC5-F6D6-40E8-AC5A-CE47509A7C11}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Aya\\source\\repos\\ShoppingCleanArchitectureSystem\\Shopping.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Shopping.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Aya\\source\\repos\\ShoppingCleanArchitectureSystem\\Shopping.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Shopping.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:57:27.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Aya\\source\\repos\\ShoppingCleanArchitectureSystem\\Shopping.Application\\Behaviors\\Validation\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "Shopping.Application\\Behaviors\\Validation\\ProductValidator.cs",
+              "ToolTip": "C:\\Users\\Aya\\source\\repos\\ShoppingCleanArchitectureSystem\\Shopping.Application\\Behaviors\\Validation\\ProductValidator.cs",
+              "RelativeToolTip": "Shopping.Application\\Behaviors\\Validation\\ProductValidator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:56:02.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Aya\\source\\repos\\ShoppingCleanArchitectureSystem\\Shopping.API\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Shopping.API\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Aya\\source\\repos\\ShoppingCleanArchitectureSystem\\Shopping.API\\DependencyInjection.cs",
+              "RelativeToolTip": "Shopping.API\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:48:52.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aya\\source\\repos\\ShoppingCleanArchitectureSystem\\Shopping.API\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Aya\\source\\repos\\ShoppingCleanArchitectureSystem\\Shopping.API\\Program.cs",
+              "RelativeToolTip": "Shopping.API\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:46:02.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Aya\\source\\repos\\ShoppingCleanArchitectureSystem\\Shopping.Application\\Behaviors\\Validation\\CategoryValidator.cs",
+              "RelativeDocumentMoniker": "Shopping.Application\\Behaviors\\Validation\\CategoryValidator.cs",
+              "ToolTip": "C:\\Users\\Aya\\source\\repos\\ShoppingCleanArchitectureSystem\\Shopping.Application\\Behaviors\\Validation\\CategoryValidator.cs",
+              "RelativeToolTip": "Shopping.Application\\Behaviors\\Validation\\CategoryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:45:36.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Domain\bin\Debug\net8.0\Shopping.Domain.deps.json
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Domain\bin\Debug\net8.0\Shopping.Domain.dll
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Domain\bin\Debug\net8.0\Shopping.Domain.pdb
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Domain\obj\Debug\net8.0\Shopping.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Domain\obj\Debug\net8.0\Shopping.Domain.AssemblyInfoInputs.cache
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Domain\obj\Debug\net8.0\Shopping.Domain.AssemblyInfo.cs
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Domain\obj\Debug\net8.0\Shopping.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Domain\obj\Debug\net8.0\Shopping.Domain.dll
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Domain\obj\Debug\net8.0\refint\Shopping.Domain.dll
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Domain\obj\Debug\net8.0\Shopping.Domain.pdb
+C:\Users\Aya\source\repos\ShoppingCleanArchitectureSystem\Shopping.Domain\obj\Debug\net8.0\ref\Shopping.Domain.dll
